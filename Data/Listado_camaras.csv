@@ -1,0 +1,659 @@
+diputado_id,Diputado,Provincia,Partido,OrientaciÃ³n,VOTO,EDAD,camara,año,RANGO_DE_EDAD,Genero
+1,"Abdala De Matarazzo,  Norma Amanda",SANTIAGO DEL ESTERO,FRENTE CÍVICO POR SANTIAGO,Otros,NEGATIVO,61,diputadxs,2018,56-65,Femenino
+2,"Acerenza., Samantha",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,56,diputadxs,2018,56-65,Femenino
+3,"Aicega,  Juan",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,34,diputadxs,2018,25-35,Masculino
+4,"Allende,  Walberto Enrique",SAN JUAN,TODOS JUNTOS POR SAN JUAN,PJ,NEGATIVO,44,diputadxs,2018,36-45,Masculino
+5,"Alonso,  Laura Valeria",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,44,diputadxs,2018,36-45,Femenino
+6,"Alume Sbodio,  Karim Augusto",SAN LUIS,UNIDAD JUSTICIALISTA,Otros,NEGATIVO,54,diputadxs,2018,46-55,Masculino
+7,"Alvarez Rodriguez.,  Cristina",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,46,diputadxs,2018,46-55,Femenino
+8,"Amadeo.,  Eduardo Pablo",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,48,diputadxs,2018,46-55,Masculino
+9,"Ansaloni,  Pablo Miguel",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,41,diputadxs,2018,36-45,Masculino
+10,"Arce,  Mario Horacio",FORMOSA,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,39,diputadxs,2018,36-45,Masculino
+11,"Arroyo,  Daniel Fernando",BUENOS AIRES,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,AFIRMATIVO,39,diputadxs,2018,36-45,Masculino
+12,"Asencio,  Fernando",BUENOS AIRES,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,AFIRMATIVO,26,diputadxs,2018,25-35,Masculino
+13,"Austin., Brenda",CÓRDOBA,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,34,diputadxs,2018,25-35,Femenino
+14,"Ávila,  Beatriz Luisa",TUCUMÁN,PARTIDO POR LA JUSTICIA SOCIAL,Cambiemos,NEGATIVO,72,diputadxs,2018,66-75,Femenino
+15,"Ayala,  Aida Beatriz Máxima",CHACO,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,42,diputadxs,2018,36-45,Femenino
+16,"Bahillo, Juan José",ENTRE RÍOS,JUSTICIALISTA,PJ,AFIRMATIVO,43,diputadxs,2018,36-45,Masculino
+17,"Baldassi,  Héctor",CÓRDOBA,PRO,Cambiemos,NEGATIVO,50,diputadxs,2018,46-55,Masculino
+18,"Banfi., Karina Verónica",BUENOS AIRES,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,40,diputadxs,2018,36-45,Femenino
+19,"Basterra,  Luis Eugenio",FORMOSA,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,53,diputadxs,2018,46-55,Masculino
+20,"Bazze,  Miguel Ángel",BUENOS AIRES,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,35,diputadxs,2018,25-35,Masculino
+21,"Benedetti,  Atilio Francisco Salvador",ENTRE RÍOS,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,50,diputadxs,2018,46-55,Masculino
+22,"Berisso,  Hernán",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,51,diputadxs,2018,46-55,Masculino
+23,"Bevilacqua., Gustavo",BUENOS AIRES,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,NEGATIVO,70,diputadxs,2018,66-75,Masculino
+24,"Bianchi,  Ivana María",SAN LUIS,UNIDAD JUSTICIALISTA,Kirchnerismo y aliados,NEGATIVO,35,diputadxs,2018,25-35,Femenino
+25,"Borsani.,  Luis Gustavo",MENDOZA,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,49,diputadxs,2018,46-55,Masculino
+26,"Bossio., Diego",BUENOS AIRES,JUSTICIALISTA,PJ,NEGATIVO,52,diputadxs,2018,46-55,Masculino
+27,"Bragagnolo,  Sebastián",MENDOZA,PRO,Cambiemos,NEGATIVO,39,diputadxs,2018,36-45,Masculino
+28,"Brambilla,  Sofía",CORRIENTES,PRO,Cambiemos,AFIRMATIVO,36,diputadxs,2018,36-45,Femenino
+29,"Britez., María Cristina",MISIONES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,73,diputadxs,2018,66-75,Masculino
+30,"Brizuela Del Moral,  Eduardo Segundo",CATAMARCA,FTE. CÍVICO Y SOCIAL DE CATAMARCA,Cambiemos,NEGATIVO,51,diputadxs,2018,46-55,Masculino
+31,"Brügge., Juan",CÓRDOBA,CÓRDOBA FEDERAL,PJ,NEGATIVO,67,diputadxs,2018,66-75,Masculino
+32,"Bucca,  Eduardo",BUENOS AIRES,JUSTICIALISTA,PJ,AFIRMATIVO,65,diputadxs,2018,56-65,Masculino
+33,"Buil., Sergio Omar",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,65,diputadxs,2018,56-65,Masculino
+34,"Burgos,  María Gabriela",JUJUY,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,41,diputadxs,2018,36-45,Femenino
+35,"Cabandié,  Juan",CDAD. AUT. BS. AS.,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,54,diputadxs,2018,46-55,Masculino
+36,"Cáceres,  Eduardo",SAN JUAN,PRO,Cambiemos,NEGATIVO,57,diputadxs,2018,56-65,Masculino
+37,"Camaño,  Graciela",BUENOS AIRES,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,NEGATIVO,41,diputadxs,2018,36-45,Femenino
+38,"Campagnoli,  Marcela",BUENOS AIRES,COALICIÓN CÍVICA,Cambiemos,NEGATIVO,47,diputadxs,2018,46-55,Femenino
+39,"Campos,  Javier",BUENOS AIRES,COALICIÓN CÍVICA,Cambiemos,NEGATIVO,41,diputadxs,2018,36-45,Masculino
+40,"Cano,  José Manuel",TUCUMÁN,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,61,diputadxs,2018,56-65,Masculino
+41,"Cantard,  Albor Angel",SANTA FE,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,36,diputadxs,2018,36-45,Masculino
+42,"Carambia,  Antonio José",SANTA CRUZ,PRO,Cambiemos,NEGATIVO,58,diputadxs,2018,56-65,Masculino
+43,"Carmona,  Guillermo Ramón",MENDOZA,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,64,diputadxs,2018,56-65,Masculino
+44,"Carol., Analuz Ailen",TIERRA DEL FUEGO,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,56,diputadxs,2018,56-65,Femenino
+45,"Carrió,  Elisa María",CDAD. AUT. BS. AS.,COALICIÓN CÍVICA,Cambiemos,NEGATIVO,48,diputadxs,2018,46-55,Femenino
+46,"Carrizo,  Ana Carla",CDAD. AUT. BS. AS.,EVOLUCIÓN RADICAL,Otros,AFIRMATIVO,64,diputadxs,2018,56-65,Femenino
+47,"Carrizo,  Soledad",CÓRDOBA,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,59,diputadxs,2018,56-65,Femenino
+48,"Carro,  Pablo",CÓRDOBA,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,33,diputadxs,2018,25-35,Masculino
+49,"Caselles.,  Graciela María",SAN JUAN,PARTIDO BLOQUISTA DE SAN JUAN,Otros,NEGATIVO,68,diputadxs,2018,66-75,Femenino
+50,"Cassinerio,  Paulo Leonardo",CÓRDOBA,CÓRDOBA FEDERAL,PJ,NEGATIVO,34,diputadxs,2018,25-35,Masculino
+51,"Castagneto., Carlos",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,52,diputadxs,2018,46-55,Masculino
+52,"Castro,  Sandra",SAN JUAN,FRENTE PARA LA VICTORIA,PJ,NEGATIVO,61,diputadxs,2018,56-65,Femenino
+53,"Cerruti,  Gabriela",C.A.B.A.,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,62,diputadxs,2018,56-65,Femenino
+54,"Ciampini,  José Alberto",NEUQUÉN,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,39,diputadxs,2018,36-45,Masculino
+55,"Cleri,  Marcos",SANTA FE,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,52,diputadxs,2018,46-55,Masculino
+56,"Contigiani,  Luis Gustavo",SANTA FE,FRENTE PROGRESISTA CÍVICO Y SOCIAL,Otros,NEGATIVO,52,diputadxs,2018,46-55,Masculino
+57,"Correa,  Walter",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,69,diputadxs,2018,66-75,Masculino
+58,"Cresto,  Mayda",ENTRE RÍOS,JUSTICIALISTA,PJ,NEGATIVO,50,diputadxs,2018,46-55,Femenino
+59,"David,  Javier",SALTA,JUSTICIALISTA,PJ,NEGATIVO,NA,diputadxs,2018,NA,Masculino
+60,"De Mendiguren,  José Ignacio",BUENOS AIRES,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,AFIRMATIVO,NA,diputadxs,2018,NA,Masculino
+61,"De Pedro,  Eduardo Enrique",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,39,diputadxs,2018,36-45,Masculino
+62,"De Ponti., Lucila María",SANTA FE,PERONISMO PARA LA VICTORIA,PJ,AFIRMATIVO,NA,diputadxs,2018,NA,Femenino
+63,"De Vido,  Julio (Suspendido Art 70 C.N.)",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AUSENTE,58,diputadxs,2018,56-65,Masculino
+64,"Del Caño,  Nicolás",BUENOS AIRES,PTS - FRENTE DE IZQUIERDA,Izquierda,AFIRMATIVO,46,diputadxs,2018,46-55,Masculino
+65,"Del Cerro,  Gonzalo Pedro Antonio",SANTA FE,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,66,diputadxs,2018,66-75,Masculino
+66,"Del Plá,  Romina",BUENOS AIRES,FTE. DE IZQUIERDA Y DE LOS TRABAJADORES,Izquierda,AFIRMATIVO,52,diputadxs,2018,46-55,Femenino
+67,"Delú,  Melina Aida",LA PAMPA,JUSTICIALISTA,PJ,AFIRMATIVO,43,diputadxs,2018,36-45,Femenino
+68,"Derna,  Verónica",MISIONES,FRENTE DE LA CONCORDIA MISIONERO,PJ,NEGATIVO,34,diputadxs,2018,25-35,Femenino
+69,"Di Stefano., Daniel",MISIONES,FRENTE DE LA CONCORDIA MISIONERO,PJ,AFIRMATIVO,53,diputadxs,2018,46-55,Masculino
+70,"Dindart., Julián",CORRIENTES,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,42,diputadxs,2018,36-45,Masculino
+71,"Donda,  Victoria",CDAD. AUT. BS. AS.,LIBRES DEL SUR,Otros,AFIRMATIVO,60,diputadxs,2018,56-65,Femenino
+72,"Doñate., Claudio Martín",RIO NEGRO,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,33,diputadxs,2018,25-35,Masculino
+73,"Echegaray., Alejandro Carlos Augusto",BUENOS AIRES,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,NA,diputadxs,2018,NA,Masculino
+74,"Enriquez,  Jorge Ricardo",C.A.B.A.,PRO,Cambiemos,NEGATIVO,42,diputadxs,2018,36-45,Masculino
+75,"Espinoza,  Fernando",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,53,diputadxs,2018,46-55,Masculino
+76,"Estevez., Gabriela",CÓRDOBA,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,57,diputadxs,2018,56-65,Femenino
+77,"Felix,  Omar",MENDOZA,SOMOS MENDOZA,PJ,NEGATIVO,37,diputadxs,2018,36-45,Masculino
+78,"Fernandez Langan,  Ezequiel",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,31,diputadxs,2018,25-35,Masculino
+79,"Fernandez Patri,  Gustavo Ramiro",FORMOSA,FRENTE PARA LA VICTORIA,PJ,NEGATIVO,59,diputadxs,2018,56-65,Masculino
+80,"Fernandez,  Carlos Alberto",BUENOS AIRES,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,NA,diputadxs,2018,NA,Masculino
+81,"Ferreyra,  Araceli Susana Del Rosario",CORRIENTES,PERONISMO PARA LA VICTORIA,PJ,AFIRMATIVO,40,diputadxs,2018,36-45,Femenino
+82,"Filmus,  Daniel",C.A.B.A.,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,35,diputadxs,2018,25-35,Masculino
+83,"Flores,  Danilo Adrián",LA RIOJA,JUSTICIALISTA,PJ,NEGATIVO,55,diputadxs,2018,46-55,Masculino
+84,"Flores,  Héctor Toty",BUENOS AIRES,COALICIÓN CÍVICA,Cambiemos,NEGATIVO,62,diputadxs,2018,56-65,Masculino
+85,"Frana., Silvina Patricia",SANTA FE,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,NEGATIVO,58,diputadxs,2018,56-65,Femenino
+86,"Franco., Jorge Daniel",MISIONES,FRENTE DE LA CONCORDIA MISIONERO,PJ,AFIRMATIVO,57,diputadxs,2018,56-65,Masculino
+87,"Fregonese,  Alicia",ENTRE RÍOS,PRO,Cambiemos,NEGATIVO,64,diputadxs,2018,56-65,Femenino
+88,"Frizza,  Gabriel Alberto",CÓRDOBA,PRO,Cambiemos,NEGATIVO,63,diputadxs,2018,56-65,Masculino
+89,"Furlán., Francisco",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,68,diputadxs,2018,66-75,Masculino
+90,"Garcia,  Alejandro",C.A.B.A.,PRO,Cambiemos,AFIRMATIVO,60,diputadxs,2018,56-65,Masculino
+91,"Garré., Nilda",CDAD. AUT. BS. AS.,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,42,diputadxs,2018,36-45,Femenino
+92,"Garretón., Facundo",TUCUMÁN,PRO,Cambiemos,NEGATIVO,33,diputadxs,2018,25-35,Masculino
+93,"Gayol., Yanina Celeste",ENTRE RÍOS,PRO,Cambiemos,AFIRMATIVO,46,diputadxs,2018,46-55,Femenino
+94,"Ginocchio,  Silvana Micaela",CATAMARCA,ELIJO CATAMARCA,PJ,NEGATIVO,38,diputadxs,2018,36-45,Femenino
+95,"Gioja., José Luis",SAN JUAN,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,NEGATIVO,46,diputadxs,2018,46-55,Masculino
+96,"Goicoechea., Horacio",CHACO,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,52,diputadxs,2018,46-55,Masculino
+97,"Gonzáles Seligra,  Nathalia",BUENOS AIRES,PTS - FRENTE DE IZQUIERDA,Izquierda,AFIRMATIVO,65,diputadxs,2018,56-65,Femenino
+98,"González,  Josefina Victoria",SANTA FE,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,56,diputadxs,2018,56-65,Femenino
+99,"González., Álvaro Gustavo",CDAD. AUT. BS. AS.,PRO,Cambiemos,NEGATIVO,54,diputadxs,2018,46-55,Masculino
+100,"Grana., Adrián",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,36,diputadxs,2018,36-45,Masculino
+101,"Grande,  Martín",SALTA,PRO,Cambiemos,NEGATIVO,65,diputadxs,2018,56-65,Femenino
+102,"Grandinetti., Alejandro Ariel",SANTA FE,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,NEGATIVO,51,diputadxs,2018,46-55,Masculino
+103,"Grosso.,  Leonardo",BUENOS AIRES,PERONISMO PARA LA VICTORIA,PJ,AFIRMATIVO,40,diputadxs,2018,36-45,Masculino
+104,"Guerín., María Isabel",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,53,diputadxs,2018,46-55,Femenino
+105,"Hernández., Martín",FORMOSA,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,39,diputadxs,2018,36-45,Femenino
+106,"Herrera., Luis Beder",LA RIOJA,JUSTICIALISTA,PJ,AFIRMATIVO,53,diputadxs,2018,46-55,Masculino
+107,"Hers Cabral., Anabella Ruth",CDAD. AUT. BS. AS.,PRO,Cambiemos,AFIRMATIVO,37,diputadxs,2018,36-45,Femenino
+108,"Horne., Silvia Reneé",RIO NEGRO,PERONISMO PARA LA VICTORIA,PJ,AFIRMATIVO,53,diputadxs,2018,46-55,Femenino
+109,"Huczak., Stella",MENDOZA,PRO,Cambiemos,NEGATIVO,38,diputadxs,2018,36-45,Femenino
+110,"Hummel,  Astrid",SANTA FE,PRO,Cambiemos,NEGATIVO,NA,diputadxs,2018,NA,Masculino
+111,"Huss., Juan Manuel",ENTRE RÍOS,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,58,diputadxs,2018,56-65,Masculino
+112,"Iglesias,  Fernando Adolfo",CDAD. AUT. BS. AS.,PRO,Cambiemos,AFIRMATIVO,34,diputadxs,2018,25-35,Masculino
+113,"Igon., Santiago",CHUBUT,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,53,diputadxs,2018,46-55,Masculino
+114,"Incicco., Lucas",SANTA FE,PRO,Cambiemos,NEGATIVO,30,diputadxs,2018,25-35,Masculino
+115,"Infante,  Hugo Orlando",SANTIAGO DEL ESTERO,FRENTE CÍVICO POR SANTIAGO,Otros,NEGATIVO,42,diputadxs,2018,36-45,Masculino
+116,"Kicillof., Axel",CDAD. AUT. BS. AS.,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,52,diputadxs,2018,46-55,Masculino
+117,"Kirchner., Máximo",SANTA CRUZ,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,35,diputadxs,2018,25-35,Masculino
+118,"Kosiner,  Pablo Francisco Juan",SALTA,JUSTICIALISTA,PJ,NEGATIVO,NA,diputadxs,2018,NA,Masculino
+119,"Kroneberger,  Daniel Ricardo",LA PAMPA,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,75,diputadxs,2018,66-75,Masculino
+120,"Lacoste,  Jorge Enrique",ENTRE RÍOS,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,51,diputadxs,2018,46-55,Masculino
+121,"Larroque,  Andrés",CDAD. AUT. BS. AS.,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,36,diputadxs,2018,36-45,Masculino
+122,"Laspina,  Luciano",SANTA FE,PRO,Cambiemos,NEGATIVO,59,diputadxs,2018,56-65,Masculino
+123,"Lavagna., Marco Juan",CDAD. AUT. BS. AS.,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,NEGATIVO,NA,diputadxs,2018,NA,Masculino
+124,"Leavy,  Sergio Napoleón",SALTA,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,NEGATIVO,63,diputadxs,2018,56-65,Masculino
+125,"Lehmann,  María Lucila",SANTA FE,COALICIÓN CÍVICA,Cambiemos,NEGATIVO,52,diputadxs,2018,46-55,Femenino
+126,"Lipovetzky., Daniel",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,41,diputadxs,2018,36-45,Masculino
+127,"Llanos Massa, Ana Maria",CHUBUT,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,NEGATIVO,50,diputadxs,2018,46-55,Femenino
+128,"Llaryora,  Martín Miguel",CÓRDOBA,CÓRDOBA FEDERAL,PJ,NEGATIVO,NA,diputadxs,2018,NA,Masculino
+129,"López Koenig., Leandro",NEUQUÉN,PRO,Cambiemos,AFIRMATIVO,37,diputadxs,2018,36-45,Masculino
+130,"López,  Juan Manuel",C.A.B.A.,COALICIÓN CÍVICA,Cambiemos,AFIRMATIVO,46,diputadxs,2018,46-55,Masculino
+131,"Lospennato., Silvia",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,69,diputadxs,2018,66-75,Femenino
+132,"Lotto,  Inés Beatriz",FORMOSA,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,NEGATIVO,63,diputadxs,2018,56-65,Femenino
+133,"Lousteau,  Martín",CDAD. AUT. BS. AS.,EVOLUCIÓN RADICAL,Otros,AFIRMATIVO,74,diputadxs,2018,66-75,Masculino
+134,"Macha,  Mónica",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,39,diputadxs,2018,36-45,Femenino
+135,"Macias., Oscar Alberto",CORRIENTES,JUSTICIALISTA,PJ,NEGATIVO,55,diputadxs,2018,46-55,Masculino
+136,"Maquieyra., Martín",LA PAMPA,PRO,Cambiemos,NEGATIVO,60,diputadxs,2018,56-65,Masculino
+137,"Marcucci., Hugo María",SANTA FE,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,NA,diputadxs,2018,NA,Masculino
+138,"Martiarena,  José Luis",JUJUY,JUSTICIALISTA,PJ,NEGATIVO,42,diputadxs,2018,36-45,Masculino
+139,"Martínez Villada., Leonor",CÓRDOBA,COALICIÓN CÍVICA,Cambiemos,NEGATIVO,63,diputadxs,2018,56-65,Femenino
+140,"Martínez,  Darío",NEUQUÉN,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,38,diputadxs,2018,36-45,Masculino
+141,"Martínez., Silvia Alejandra",JUJUY,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,56,diputadxs,2018,56-65,Femenino
+142,"Masín., María Lucila",CHACO,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,NA,diputadxs,2018,NA,Femenino
+143,"Massetani., Vanesa",SANTA FE,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,NEGATIVO,38,diputadxs,2018,36-45,Femenino
+144,"Massot., Nicolás",CÓRDOBA,PRO,Cambiemos,NEGATIVO,NA,diputadxs,2018,NA,Masculino
+145,"Matzen,  Lorena",RIO NEGRO,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,61,diputadxs,2018,56-65,Femenino
+146,"Medina,  Gladys",TUCUMÁN,JUSTICIALISTA POR TUCUMÁN,PJ,NEGATIVO,65,diputadxs,2018,56-65,Femenino
+147,"Medina,  Martín Nicolás",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,54,diputadxs,2018,46-55,Masculino
+148,"Mendoza,  Josefina",BUENOS AIRES,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,NA,diputadxs,2018,NA,Femenino
+149,"Mendoza,  Mayra Soledad",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,57,diputadxs,2018,56-65,Femenino
+150,"Menna,  Gustavo",CHUBUT,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,43,diputadxs,2018,36-45,Masculino
+151,"Mercado., Verónica",CATAMARCA,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,47,diputadxs,2018,46-55,Femenino
+152,"Mestre,  Diego Matías",CÓRDOBA,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,48,diputadxs,2018,46-55,Masculino
+153,"Miranda., Pedro Rubén",MENDOZA,JUSTICIALISTA,PJ,AFIRMATIVO,60,diputadxs,2018,56-65,Masculino
+154,"Moises,  María Carolina",JUJUY,JUSTICIALISTA,Massismo y aliados,AFIRMATIVO,44,diputadxs,2018,36-45,Femenino
+155,"Molina., Karina",LA RIOJA,PRO,Cambiemos,NEGATIVO,66,diputadxs,2018,66-75,Femenino
+156,"Monaldi,  Osmar",JUJUY,PRO,Cambiemos,NEGATIVO,39,diputadxs,2018,36-45,Masculino
+157,"Monfort., Marcelo Alejandro",ENTRE RÍOS,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,NA,diputadxs,2018,NA,Masculino
+158,"Montenegro,  Guillermo Tristán",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,43,diputadxs,2018,36-45,Masculino
+159,"Morales,  Flavia",MISIONES,FRENTE DE LA CONCORDIA MISIONERO,Otros,NEGATIVO,46,diputadxs,2018,46-55,Femenino
+160,"Morales., Mariana",SANTIAGO DEL ESTERO,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,NEGATIVO,NA,diputadxs,2018,NA,Femenino
+161,"Moreau,  Leopoldo Raúl Guido",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,NA,diputadxs,2018,NA,Masculino
+162,"Moreau., Cecilia",BUENOS AIRES,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,AFIRMATIVO,65,diputadxs,2018,56-65,Femenino
+163,"Mosqueda,  Juan",CHACO,JUSTICIALISTA,PJ,NEGATIVO,NA,diputadxs,2018,NA,Masculino
+164,"Moyano,  Facundo",BUENOS AIRES,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,AFIRMATIVO,53,diputadxs,2018,46-55,Masculino
+165,"Muñoz,  Rosa Rosario",CHUBUT,TRABAJO Y DIGNIDAD,Massismo y aliados,NEGATIVO,59,diputadxs,2018,56-65,Femenino
+166,"Najul,  Claudia Inés",MENDOZA,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,NA,diputadxs,2018,NA,Femenino
+167,"Nanni., Miguel",SALTA,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,52,diputadxs,2018,46-55,Masculino
+168,"Navarro,  Graciela",SANTIAGO DEL ESTERO,FRENTE CÍVICO POR SANTIAGO,Otros,NEGATIVO,63,diputadxs,2018,56-65,Femenino
+169,"Nazario., Adriana",CÓRDOBA,CÓRDOBA TRABAJO Y PRODUCCIÓN,Massismo y aliados,NEGATIVO,66,diputadxs,2018,66-75,Femenino
+170,"Neder,  Estela Mary",SANTIAGO DEL ESTERO,FRENTE CÍVICO POR SANTIAGO,Otros,NEGATIVO,39,diputadxs,2018,36-45,Femenino
+171,"Negri,  Mario Raúl",CÓRDOBA,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,47,diputadxs,2018,46-55,Masculino
+172,"Núñez., José Carlos",SANTA FE,PRO,Cambiemos,NEGATIVO,45,diputadxs,2018,36-45,Masculino
+173,"Ocaña,  Maria Graciela",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,62,diputadxs,2018,56-65,Femenino
+174,"Olivares,  Héctor Enrique",LA RIOJA,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,56,diputadxs,2018,56-65,Masculino
+175,"Oliveto Lago,  Paula Mariana",C.A.B.A.,COALICIÓN CÍVICA,Cambiemos,NEGATIVO,37,diputadxs,2018,36-45,Femenino
+176,"Olmedo.,  Alfredo Horacio",SALTA,SALTA SOMOS TODOS,Cambiemos,NEGATIVO,56,diputadxs,2018,56-65,Masculino
+177,"Orellana., José Fernando",TUCUMÁN,JUSTICIALISTA POR TUCUMÁN,PJ,NEGATIVO,48,diputadxs,2018,46-55,Masculino
+178,"Passo., Marcela",BUENOS AIRES,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,NEGATIVO,66,diputadxs,2018,66-75,Femenino
+179,"Pastori,  Luis Mario",MISIONES,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,42,diputadxs,2018,36-45,Masculino
+180,"Pastoriza,  Mirta Ameliana",SANTIAGO DEL ESTERO,FRENTE CÍVICO POR SANTIAGO,Otros,AFIRMATIVO,48,diputadxs,2018,46-55,Femenino
+181,"Peñaloza Marianetti.,  Marìa Florencia",SAN JUAN,SOMOS SAN JUAN,Otros,NEGATIVO,55,diputadxs,2018,46-55,Femenino
+182,"Pereyra., Juan Manuel",CÓRDOBA,CONCERTACIÓN FORJA,Otros,NEGATIVO,71,diputadxs,2018,66-75,Masculino
+183,"Pérez,  Martín Alejandro",TIERRA DEL FUEGO,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,60,diputadxs,2018,56-65,Masculino
+184,"Pérez., Raúl Joaquín",BUENOS AIRES,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,AFIRMATIVO,64,diputadxs,2018,56-65,Masculino
+185,"Pertile,  Elda",CHACO,JUSTICIALISTA,PJ,NEGATIVO,50,diputadxs,2018,46-55,Femenino
+186,"Petri,  Luis Alfonso",MENDOZA,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,NA,diputadxs,2018,NA,Masculino
+187,"Piccolomini,  María Carla",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,70,diputadxs,2018,66-75,Femenino
+188,"Pietragalla Corti,  Horacio",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,NA,diputadxs,2018,NA,Masculino
+189,"Pitiot., Carla Betina",CDAD. AUT. BS. AS.,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,NEGATIVO,54,diputadxs,2018,46-55,Femenino
+190,"Polledo,  Carmen",C.A.B.A.,PRO,Cambiemos,NEGATIVO,NA,diputadxs,2018,NA,Femenino
+191,"Pretto., Pedro Javier",CÓRDOBA,PRO,Cambiemos,NEGATIVO,46,diputadxs,2018,46-55,Masculino
+192,"Quetglas,  Fabio José",BUENOS AIRES,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,44,diputadxs,2018,36-45,Masculino
+193,"Rach Quiroga., Analía",CHACO,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,NA,diputadxs,2018,NA,Femenino
+194,"Ramón,  José Luis",MENDOZA,PARTIDO INTRANSIGENTE DE MENDOZA,Otros,NEGATIVO,45,diputadxs,2018,36-45,Masculino
+195,"Ramos., Alejandro",SANTA FE,PRIMERO ARGENTINA,Otros,AFIRMATIVO,NA,diputadxs,2018,NA,Masculino
+196,"Rauschenberger,  Ariel",LA PAMPA,JUSTICIALISTA,PJ,AFIRMATIVO,46,diputadxs,2018,46-55,Masculino
+197,"Raverta., María Fernanda",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,70,diputadxs,2018,66-75,Femenino
+198,"Regidor Belledone,  Estela Mercedes",CORRIENTES,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,66,diputadxs,2018,66-75,Femenino
+199,"Reyes,  Roxana Nahir",SANTA CRUZ,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,NA,diputadxs,2018,NA,Femenino
+200,"Riccardo,  José Luis",SAN LUIS,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,30,diputadxs,2018,25-35,Masculino
+201,"Ricci,  Nadia Lorena",SANTA CRUZ,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,58,diputadxs,2018,56-65,Femenino
+202,"Rista., Olga María",CÓRDOBA,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,71,diputadxs,2018,66-75,Femenino
+203,"Rodenas,  Alejandra",SANTA FE,NUEVO ESPACIO SANTAFESINO,Kirchnerismo y aliados,AFIRMATIVO,51,diputadxs,2018,46-55,Femenino
+204,"Rodríguez., Matías",TIERRA DEL FUEGO,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,NA,diputadxs,2018,NA,Masculino
+205,"Rodríguez., Rodrigo",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,65,diputadxs,2018,56-65,Masculino
+206,"Roma., Carlos Gastón",TIERRA DEL FUEGO,PRO,Cambiemos,AFIRMATIVO,NA,diputadxs,2018,NA,Masculino
+207,"Romero,  Jorge Antonio",CORRIENTES,FRENTE PARA LA VICTORIA,PJ,NEGATIVO,48,diputadxs,2018,46-55,Masculino
+208,"Rossi,  Agustín",SANTA FE,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,53,diputadxs,2018,46-55,Masculino
+209,"Rosso,  Victoria",SAN LUIS,UNIDAD JUSTICIALISTA,Otros,NEGATIVO,69,diputadxs,2018,66-75,Femenino
+210,"Ruiz Aragón., José",CORRIENTES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,NA,diputadxs,2018,NA,Masculino
+211,"Russo,  Laura",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,60,diputadxs,2018,56-65,Femenino
+212,"Saadi,  Gustavo Arturo",CATAMARCA,ELIJO CATAMARCA,PJ,NEGATIVO,59,diputadxs,2018,56-65,Masculino
+213,"Sahad,  Julio Enrique",LA RIOJA,PRO,Cambiemos,NEGATIVO,52,diputadxs,2018,46-55,Masculino
+214,"Salvarezza,  Roberto",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,44,diputadxs,2018,36-45,Masculino
+215,"Santillán,  Walter Marcelo",TUCUMÁN,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,40,diputadxs,2018,36-45,Masculino
+216,"Sapag,  Alma Liliana",NEUQUÉN,MOVIMIENTO POPULAR NEUQUINO,Otros,NEGATIVO,NA,diputadxs,2018,NA,Femenino
+217,"Scaglia,  Gisela",SANTA FE,PRO,Cambiemos,NEGATIVO,58,diputadxs,2018,56-65,Femenino
+218,"Schlereth,  David Pablo",NEUQUÉN,PRO,Cambiemos,NEGATIVO,57,diputadxs,2018,56-65,Masculino
+219,"Schmidt Liermann, Cornelia",CDAD. AUT. BS. AS.,UNIÓN PRO,Cambiemos,NEGATIVO,NA,diputadxs,2018,NA,Femenino
+220,"Scioli,  Daniel",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,68,diputadxs,2018,66-75,Masculino
+221,"Selva., Carlos Américo",BUENOS AIRES,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,NEGATIVO,46,diputadxs,2018,46-55,Masculino
+222,"Sierra,  Magdalena",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,62,diputadxs,2018,56-65,Femenino
+223,"Siley,  Vanesa",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,41,diputadxs,2018,36-45,Femenino
+224,"Snopek., Alejandro Francisco",JUJUY,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,NEGATIVO,60,diputadxs,2018,56-65,Masculino
+225,"Solá,  Felipe",BUENOS AIRES,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,AFIRMATIVO,57,diputadxs,2018,56-65,Masculino
+226,"Solanas,  Julio Rodolfo",ENTRE RÍOS,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,NEGATIVO,61,diputadxs,2018,56-65,Masculino
+227,"Soraire., Mirta Alicia",TUCUMÁN,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,NEGATIVO,NA,diputadxs,2018,NA,Femenino
+228,"Soria,  María Emilia",RIO NEGRO,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,44,diputadxs,2018,36-45,Femenino
+229,"Stefani,  Héctor Antonio",TIERRA DEL FUEGO,PRO,Cambiemos,AFIRMATIVO,NA,diputadxs,2018,NA,Masculino
+230,"Suarez Lastra,  Facundo",C.A.B.A.,UNIÓN CÍVICA RADICAL,Cambiemos,AFIRMATIVO,45,diputadxs,2018,36-45,Masculino
+231,"Taboada., Jorge Omar",CHUBUT,"CULTURA, EDUCACIÓN Y TRABAJO",PJ,NEGATIVO,53,diputadxs,2018,46-55,Masculino
+232,"Tailhade., Luis Rodolfo",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,NA,diputadxs,2018,NA,Masculino
+233,"Terada,  Alicia",CHACO,COALICIÓN CÍVICA - ARI - UNEN,Cambiemos,NEGATIVO,42,diputadxs,2018,36-45,Femenino
+234,"Tonelli,  Pablo Gabriel",CDAD. AUT. BS. AS.,UNIÓN PRO,Cambiemos,NEGATIVO,66,diputadxs,2018,66-75,Masculino
+235,"Torello., Pablo",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,36,diputadxs,2018,36-45,Masculino
+236,"Tundis,  Mirta",BUENOS AIRES,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,Massismo y aliados,AFIRMATIVO,NA,diputadxs,2018,NA,Femenino
+237,"Urroz., Paula Marcela",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,53,diputadxs,2018,46-55,Femenino
+238,"Vallejos,  María Fernanda",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,68,diputadxs,2018,66-75,Femenino
+239,"Vallone,  Andres Alberto",SAN LUIS,UNIDAD JUSTICIALISTA,PJ,NEGATIVO,56,diputadxs,2018,56-65,Masculino
+240,"Vázquez,  Juan Benedicto",SANTA CRUZ,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,46,diputadxs,2018,46-55,Masculino
+241,"Vera Gonzalez,  Orieta Cecilia",CATAMARCA,COALICIÓN CÍVICA,Cambiemos,NEGATIVO,36,diputadxs,2018,36-45,Femenino
+242,"Vigo,  Alejandra María",CÓRDOBA,CÓRDOBA FEDERAL,PJ,ABSTENCION,34,diputadxs,2018,25-35,Femenino
+243,"Villa,  Natalia Soledad",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,46,diputadxs,2018,46-55,Femenino
+244,"Villalonga., Juan Carlos",CDAD. AUT. BS. AS.,PRO,Cambiemos,AFIRMATIVO,45,diputadxs,2018,36-45,Masculino
+245,"Villavicencio., María Teresita",TUCUMÁN,EVOLUCIÓN RADICAL,Otros,AFIRMATIVO,33,diputadxs,2018,25-35,Femenino
+246,"Volnovich., Luana",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,40,diputadxs,2018,36-45,Femenino
+247,"Wechsler., Marcelo",CDAD. AUT. BS. AS.,PRO,Cambiemos,AFIRMATIVO,39,diputadxs,2018,36-45,Masculino
+248,"Wellbach,  Ricardo",MISIONES,FRENTE DE LA CONCORDIA MISIONERO,Otros,NEGATIVO,NA,diputadxs,2018,NA,Masculino
+249,"Wisky., Sergio Javier",RIO NEGRO,PRO,Cambiemos,AFIRMATIVO,54,diputadxs,2018,46-55,Masculino
+250,"Wolff., Waldo Ezequiel",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,40,diputadxs,2018,36-45,Masculino
+251,"Yasky,  Hugo",BUENOS AIRES,FRENTE PARA LA VICTORIA,Kirchnerismo y aliados,AFIRMATIVO,56,diputadxs,2018,56-65,Masculino
+252,"Yedlin,  Pablo Raúl",TUCUMÁN,JUSTICIALISTA POR TUCUMÁN,PJ,AFIRMATIVO,52,diputadxs,2018,46-55,Masculino
+253,"Zamarbide,  Federico Raùl",MENDOZA,UNIÓN CÍVICA RADICAL,Cambiemos,NEGATIVO,43,diputadxs,2018,36-45,Masculino
+254,"Zamora,  Claudia",SANTIAGO DEL ESTERO,FRENTE CÍVICO POR SANTIAGO,Otros,NEGATIVO,NA,diputadxs,2018,NA,Femenino
+255,"Ziliotto., Sergio Raúl",LA PAMPA,JUSTICIALISTA,PJ,AFIRMATIVO,41,diputadxs,2018,36-45,Masculino
+256,"Zottos,  Miguel Andrés Costas",SALTA,JUSTICIALISTA,PJ,NEGATIVO,65,diputadxs,2018,56-65,Masculino
+257,"Monza, Emilio",BUENOS AIRES,PRO,Cambiemos,NA,NA,diputadxs,2018,NA,Masculino
+258,"Aguilar., Eduardo Alberto",CHACO,NA,PJ,AFIRMATIVO,47,senadorxs,2018,46-55,Masculino
+259,"Almirón., Ana Claudia",CORRIENTES,NA,Kirchnerismo y aliados,AFIRMATIVO,34,senadorxs,2018,25-35,Femenino
+260,"Alperovich., José",TUCUMÁN,NA,PJ,NEGATIVO,63,senadorxs,2018,56-65,Masculino
+261,"Basualdo., Roberto Gustavo",SAN JUAN,NA,Cambiemos,NEGATIVO,61,senadorxs,2018,56-65,Masculino
+262,"Blas., Inés Imelda",CATAMARCA,NA,PJ,NEGATIVO,59,senadorxs,2018,56-65,Femenino
+263,"Boyadjian., Miriam Ruth",TIERRA DEL FUEGO,NA,Cambiemos,NEGATIVO,52,senadorxs,2018,46-55,Femenino
+264,"Braillard Poccard., Néstor Pedro",CORRIENTES,NA,Cambiemos,NEGATIVO,64,senadorxs,2018,56-65,Masculino
+265,"Brizuela Y Doria De Cara,  Olga Inés",LA RIOJA,NA,Cambiemos,NEGATIVO,47,senadorxs,2018,46-55,Femenino
+266,"Bullrich,  Esteban José",CDAD. AUT. BS. AS.,NA,Cambiemos,NEGATIVO,49,senadorxs,2018,46-55,Masculino
+267,"Caserio.,  Carlos Alberto",CÓRDOBA,NA,PJ,AFIRMATIVO,68,senadorxs,2018,66-75,Masculino
+268,"Castillo., Oscar Aníbal",CATAMARCA,NA,Cambiemos,AFIRMATIVO,64,senadorxs,2018,56-65,Masculino
+269,"Catalan Magni.,  Julio César",TIERRA DEL FUEGO,NA,PJ,AFIRMATIVO,50,senadorxs,2018,46-55,Masculino
+270,"Catalfamo,  Eugenia",SAN LUIS,Frente Unidad Justicialista San Luis,Otros,AUSENTE,31,senadorxs,2018,25-35,Femenino
+271,"Closs., Maurice Fabián",MISIONES,NA,Otros,NEGATIVO,47,senadorxs,2018,46-55,Masculino
+272,"Cobos.,  Julio César Cleto",MENDOZA,NA,Cambiemos,NEGATIVO,63,senadorxs,2018,56-65,Masculino
+273,"Costa,  Eduardo Raúl",SANTA CRUZ,NA,Cambiemos,AFIRMATIVO,57,senadorxs,2018,56-65,Masculino
+274,"Crexell., Carmen Lucila",NEUQUÉN,NA,Otros,ABSTENCION,46,senadorxs,2018,46-55,Femenino
+275,"De Ángeli., Alfredo Luis",ENTRE RÍOS,NA,Cambiemos,NEGATIVO,62,senadorxs,2018,56-65,Masculino
+276,"Durango., Norma",LA PAMPA,NA,PJ,AFIRMATIVO,66,senadorxs,2018,66-75,Femenino
+277,"Elías De Perez., Silvia Beatríz",TUCUMÁN,NA,Cambiemos,NEGATIVO,54,senadorxs,2018,46-55,Femenino
+278,"Espínola., Carlos",CORRIENTES,NA,PJ,NEGATIVO,47,senadorxs,2018,46-55,Masculino
+279,"Fernández De Kirchner,  Cristina",BUENOS AIRES,NA,Kirchnerismo y aliados,AFIRMATIVO,65,senadorxs,2018,56-65,Femenino
+280,"Fernández Sagasti.,  Anabel",MENDOZA,NA,Kirchnerismo y aliados,AFIRMATIVO,34,senadorxs,2018,25-35,Femenino
+281,"Fiad,  Mario R.",JUJUY,NA,Cambiemos,NEGATIVO,61,senadorxs,2018,56-65,Masculino
+282,"Fiore Viñuales.,  María Cristina Del Valle",SALTA,NA,Otros,NEGATIVO,44,senadorxs,2018,36-45,Femenino
+283,"Fuentes., Marcelo Jorge",NEUQUÉN,NA,Kirchnerismo y aliados,AFIRMATIVO,70,senadorxs,2018,66-75,Masculino
+284,"Garcia Larraburu.,  Silvina Marcela",RIO NEGRO,NA,Kirchnerismo y aliados,NEGATIVO,49,senadorxs,2018,46-55,Femenino
+285,"Giacoppo., Silvia Del Rosario",JUJUY,NA,Cambiemos,NEGATIVO,59,senadorxs,2018,56-65,Femenino
+286,"González,  Gladys Esther",BUENOS AIRES,NA,Cambiemos,AFIRMATIVO,45,senadorxs,2018,36-45,Femenino
+287,"González,  María Teresa Margarita",FORMOSA,NA,PJ,NEGATIVO,57,senadorxs,2018,56-65,Femenino
+288,"Gonzalez.,  Nancy Susana",CHUBUT,NA,Kirchnerismo y aliados,AFIRMATIVO,57,senadorxs,2018,56-65,Femenino
+289,"Guastavino., Pedro Guillermo Ángel",ENTRE RÍOS,NA,PJ,AFIRMATIVO,64,senadorxs,2018,56-65,Masculino
+290,"Ianni,  Ana María",SANTA CRUZ,NA,Kirchnerismo y aliados,AFIRMATIVO,49,senadorxs,2018,46-55,Femenino
+291,"Iturrez De Cappellini.	, Ada Rosa Del Valle",SANTIAGO DEL ESTERO,NA,Otros,NEGATIVO,72,senadorxs,2018,66-75,Femenino
+292,"Kunath., Sigrid Elisabeth",ENTRE RÍOS,NA,PJ,AFIRMATIVO,49,senadorxs,2018,46-55,Femenino
+293,"López Valverde,  Cristina",SAN JUAN,FRENTE DE TODOS,PJ,NEGATIVO,59,senadorxs,2018,56-65,Femenino
+294,"Lovera., Daniel Aníbal",LA PAMPA,NA,PJ,AFIRMATIVO,53,senadorxs,2018,46-55,Masculino
+295,"Luenzo., Alfredo Héctor",CHUBUT,NA,PJ,AFIRMATIVO,61,senadorxs,2018,56-65,Masculino
+296,"Marino., Juan Carlos",LA PAMPA,NA,Cambiemos,NEGATIVO,55,senadorxs,2018,46-55,Masculino
+297,"Martínez,  Julio",LA RIOJA,NA,Cambiemos,NEGATIVO,56,senadorxs,2018,56-65,Masculino
+298,"Martínez.,  Ernesto Félix",CÓRDOBA,NA,Cambiemos,AFIRMATIVO,62,senadorxs,2018,56-65,Masculino
+299,"Mayans., José Miguel Ángel",FORMOSA,NA,PJ,NEGATIVO,61,senadorxs,2018,56-65,Masculino
+300,"Menem., Carlos Saúl",LA RIOJA,NA,PJ,NEGATIVO,88,senadorxs,2018,86-96,Masculino
+301,"Mera.,  Dalmacio",CATAMARCA,NA,PJ,NEGATIVO,48,senadorxs,2018,46-55,Masculino
+302,"Mirkin.,  Beatriz Graciela",TUCUMÁN,NA,PJ,AFIRMATIVO,63,senadorxs,2018,56-65,Femenino
+303,"Montenegro., Gerardo Antenor",SANTIAGO DEL ESTERO,NA,Otros,NEGATIVO,58,senadorxs,2018,56-65,Masculino
+304,"Odarda., María Magdalena",RIO NEGRO,NA,Otros,AFIRMATIVO,52,senadorxs,2018,46-55,Femenino
+305,"Ojeda., José Anatolio",TIERRA DEL FUEGO,NA,PJ,AFIRMATIVO,56,senadorxs,2018,56-65,Masculino
+306,"Pais.,  Juan Mario",CHUBUT,NA,PJ,AFIRMATIVO,67,senadorxs,2018,66-75,Masculino
+307,"Pereyra., Guillermo Juan",NEUQUÉN,NA,Otros,AFIRMATIVO,75,senadorxs,2018,66-75,Masculino
+308,"Perotti.,  Omar Ángel",SANTA FE,NA,PJ,ABSTENCION,59,senadorxs,2018,56-65,Masculino
+309,"Petcoff Naidenoff., Luis Carlos",FORMOSA,NA,Cambiemos,AFIRMATIVO,51,senadorxs,2018,46-55,Masculino
+310,"Pichetto., Miguel Ángel",RIO NEGRO,NA,PJ,AFIRMATIVO,68,senadorxs,2018,66-75,Masculino
+311,"Pilatti Vergara.,  María Inés",CHACO,NA,Kirchnerismo y aliados,AFIRMATIVO,60,senadorxs,2018,56-65,Femenino
+312,"Pinedo.,  Federico",CDAD. AUT. BS. AS.,NA,Cambiemos,NEGATIVO,62,senadorxs,2018,56-65,Masculino
+313,"Poggi,  Claudio",SAN LUIS,Cambiemos por San Luis,Cambiemos,NEGATIVO,55,senadorxs,2018,46-55,Masculino
+314,"Porcel De Riccobelli,  Blanca",SANTIAGO DEL ESTERO,NA,Otros,NEGATIVO,75,senadorxs,2018,66-75,Femenino
+315,"Reutemann., Carlos Alberto",SANTA FE,NA,Otros,NEGATIVO,76,senadorxs,2018,76-85,Masculino
+316,"Rodríguez Machado., Laura Elena",CÓRDOBA,NA,Cambiemos,AFIRMATIVO,53,senadorxs,2018,46-55,Femenino
+317,"Rodríguez Saá., Adolfo",SAN LUIS,NA,Otros,NEGATIVO,71,senadorxs,2018,66-75,Masculino
+318,"Romero., Juan Carlos",SALTA,NA,Otros,NEGATIVO,68,senadorxs,2018,66-75,Masculino
+319,"Rozas.,  Ángel",CHACO,NA,Cambiemos,NEGATIVO,68,senadorxs,2018,66-75,Masculino
+320,"Sacnun., Ángeles",SANTA FE,NA,Kirchnerismo y aliados,AFIRMATIVO,48,senadorxs,2018,46-55,Femenino
+321,"Schiavoni,  Humberto",MISIONES,Cambiemos,Cambiemos,AFIRMATIVO,60,senadorxs,2018,56-65,Masculino
+322,"Snopek., Guillermo",JUJUY,NA,PJ,NEGATIVO,43,senadorxs,2018,36-45,Masculino
+323,"Solanas.,  Fernando Ezequiel",CDAD. AUT. BS. AS.,NA,Otros,AFIRMATIVO,82,senadorxs,2018,76-85,Masculino
+324,"Solari Quintana,  Magdalena",MISIONES,FRENTE RENOVADOR DE LA CONCORDIA,Otros,NEGATIVO,50,senadorxs,2018,46-55,Femenino
+325,"Tapia,  María Bélen",SANTA CRUZ,Cambiemos,Cambiemos,NEGATIVO,45,senadorxs,2018,36-45,Femenino
+326,"Uñac,  José Rubén.",SAN JUAN,NA,PJ,NEGATIVO,54,senadorxs,2018,46-55,Masculino
+327,"Urtubey., Rodolfo Julio",SALTA,NA,PJ,NEGATIVO,49,senadorxs,2018,46-55,Masculino
+328,"Varela., Marta",CDAD. AUT. BS. AS.,NA,Cambiemos,NEGATIVO,68,senadorxs,2018,66-75,Femenino
+329,"Verasay., Pamela Fernanda",MENDOZA,NA,Cambiemos,AFIRMATIVO,38,senadorxs,2018,36-45,Femenino
+330,"Almirón., Ana Claudia",CORRIENTES,NA,Kirchnerismo/PJ,AFIRMATIVO,36,senadorxs,2020,36-45,Femenino
+331,"Alperovich., José",TUCUMÁN,NA,Kirchnerismo/PJ,AUSENTE,65,senadorxs,2020,56-65,Masculino
+332,"Basualdo., Roberto Gustavo",SAN JUAN,NA,Cambiemos,NEGATIVO,63,senadorxs,2020,56-65,Masculino
+333,"Blanco,  Pablo Daniel",NA,NA,Cambiemos,NEGATIVO,67,senadorxs,2020,66-75,Masculino
+334,"Blas., Inés Imelda",CATAMARCA,NA,Kirchnerismo/PJ,NEGATIVO,61,senadorxs,2020,56-65,Femenino
+335,"Braillard Poccard., Néstor Pedro",CORRIENTES,NA,Cambiemos,NEGATIVO,66,senadorxs,2020,66-75,Masculino
+336,"Bullrich,  Esteban José",CDAD. AUT. BS. AS.,NA,Cambiemos,NEGATIVO,51,senadorxs,2020,46-55,Masculino
+337,"Caserio.,  Carlos Alberto",CÓRDOBA,NA,Kirchnerismo/PJ,AFIRMATIVO,70,senadorxs,2020,66-75,Masculino
+338,"Castillo., Oscar Aníbal",CATAMARCA,NA,Cambiemos,AFIRMATIVO,66,senadorxs,2020,66-75,Masculino
+339,"Catalfamo,  Eugenia",SAN LUIS,NA,Kirchnerismo/PJ,AFIRMATIVO,33,senadorxs,2020,25-35,Femenino
+340,"Closs., Maurice Fabián",MISIONES,NA,Kirchnerismo/PJ,NEGATIVO,49,senadorxs,2020,46-55,Masculino
+341,"Cobos.,  Julio César Cleto",MENDOZA,NA,Cambiemos,NEGATIVO,65,senadorxs,2020,56-65,Masculino
+342,"Costa,  Eduardo Raúl",SANTA CRUZ,NA,Cambiemos,AFIRMATIVO,69,senadorxs,2020,66-75,Masculino
+343,"Crexell., Carmen Lucila",NEUQUÉN,NA,Otros,AFIRMATIVO,48,senadorxs,2020,46-55,Femenino
+344,"De Ángeli., Alfredo Luis",ENTRE RÍOS,NA,Cambiemos,NEGATIVO,63,senadorxs,2020,56-65,Masculino
+345,"Doñate., Claudio Martín",RIO NEGRO,NA,Kirchnerismo/PJ,AFIRMATIVO,45,senadorxs,2020,36-45,Masculino
+346,"Durango., Norma",LA PAMPA,NA,Kirchnerismo/PJ,AFIRMATIVO,68,senadorxs,2020,66-75,Femenino
+347,"Duré,  María Eugenia",NA,NA,Kirchnerismo/PJ,AFIRMATIVO,40,senadorxs,2020,36-45,Femenino
+348,"Elías De Perez., Silvia Beatríz",TUCUMÁN,NA,Cambiemos,NEGATIVO,56,senadorxs,2020,56-65,Femenino
+349,"Espínola., Carlos",CORRIENTES,NA,Kirchnerismo/PJ,NEGATIVO,49,senadorxs,2020,46-55,Masculino
+350,"Fernández Sagasti.,  Anabel",MENDOZA,NA,Kirchnerismo/PJ,AFIRMATIVO,36,senadorxs,2020,36-45,Femenino
+351,"Fiad,  Mario R.",JUJUY,NA,Cambiemos,NEGATIVO,63,senadorxs,2020,56-65,Masculino
+352,"Garcia Larraburu.,  Silvina Marcela",RIO NEGRO,NA,Kirchnerismo/PJ,AFIRMATIVO,51,senadorxs,2020,46-55,Femenino
+353,"Giacoppo., Silvia Del Rosario",JUJUY,NA,Cambiemos,NEGATIVO,61,senadorxs,2020,56-65,Femenino
+354,"Gimenez,  Nora Del Valle",NA,NA,Kirchnerismo/PJ,AFIRMATIVO,63,senadorxs,2020,56-65,Femenino
+355,"González,  Gladys Esther",BUENOS AIRES,NA,Cambiemos,AFIRMATIVO,47,senadorxs,2020,46-55,Femenino
+356,"González,  María Teresa Margarita",FORMOSA,NA,Kirchnerismo/PJ,NEGATIVO,59,senadorxs,2020,56-65,Femenino
+357,"Gonzalez.,  Nancy Susana",CHUBUT,NA,Kirchnerismo/PJ,AFIRMATIVO,59,senadorxs,2020,56-65,Femenino
+358,"Ianni,  Ana María",SANTA CRUZ,NA,Kirchnerismo/PJ,AFIRMATIVO,51,senadorxs,2020,46-55,Femenino
+359,"Kueider,  Edgardo Dario",NA,NA,Kirchnerismo/PJ,AFIRMATIVO,48,senadorxs,2020,46-55,Masculino
+360,"Leavy,  Sergio Napoleón",SALTA,NA,Kirchnerismo/PJ,AFIRMATIVO,57,senadorxs,2020,56-65,Masculino
+361,"Ledesma,  Claudia Alejandra",NA,NA,Kirchnerismo/PJ,NEGATIVO,46,senadorxs,2020,46-55,Femenino
+362,"López Valverde,  Cristina",SAN JUAN,NA,Kirchnerismo/PJ,NEGATIVO,61,senadorxs,2020,56-65,Femenino
+363,"Lousteau,  Martín",CDAD. AUT. BS. AS.,NA,Cambiemos,AFIRMATIVO,50,senadorxs,2020,46-55,Masculino
+364,"Lovera., Daniel Aníbal",LA PAMPA,NA,Kirchnerismo/PJ,AFIRMATIVO,55,senadorxs,2020,46-55,Masculino
+365,"Luenzo., Alfredo Héctor",CHUBUT,NA,Kirchnerismo/PJ,AFIRMATIVO,63,senadorxs,2020,56-65,Masculino
+366,"Marino., Juan Carlos",LA PAMPA,NA,Cambiemos,NEGATIVO,57,senadorxs,2020,56-65,Masculino
+367,"Martínez,  Julio",LA RIOJA,NA,Cambiemos,NEGATIVO,64,senadorxs,2020,56-65,Masculino
+368,"Martínez.,  Ernesto Félix",CÓRDOBA,NA,Cambiemos,AFIRMATIVO,58,senadorxs,2020,56-65,Masculino
+369,"Mayans., José Miguel Ángel",FORMOSA,NA,Kirchnerismo/PJ,NEGATIVO,63,senadorxs,2020,56-65,Masculino
+370,"Menem., Carlos Saúl",LA RIOJA,NA,Kirchnerismo/PJ,AUSENTE,90,senadorxs,2020,86-96,Masculino
+371,"Mera.,  Dalmacio",CATAMARCA,NA,Kirchnerismo/PJ,NEGATIVO,50,senadorxs,2020,46-55,Masculino
+372,"Mirabella,  Roberto Mario",NA,NA,Kirchnerismo/PJ,AFIRMATIVO,54,senadorxs,2020,46-55,Masculino
+373,"Mirkin.,  Beatriz Graciela",TUCUMÁN,NA,Kirchnerismo/PJ,AFIRMATIVO,65,senadorxs,2020,56-65,Femenino
+374,"Montenegro., Gerardo Antenor",SANTIAGO DEL ESTERO,NA,Kirchnerismo/PJ,NEGATIVO,60,senadorxs,2020,56-65,Masculino
+375,"Neder,  José Emilio",NA,NA,Kirchnerismo/PJ,NEGATIVO,66,senadorxs,2020,66-75,Masculino
+376,"Olalla De Moreira,  Stella Maris",NA,NA,Cambiemos,AFIRMATIVO,77,senadorxs,2020,76-85,Femenino
+377,"Pais.,  Juan Mario",CHUBUT,NA,Kirchnerismo/PJ,AFIRMATIVO,65,senadorxs,2020,56-65,Masculino
+378,"Parrilli,  Oscar Isidro",NA,NA,Kirchnerismo/PJ,AFIRMATIVO,69,senadorxs,2020,66-75,Masculino
+379,"Petcoff Naidenoff., Luis Carlos",FORMOSA,NA,Cambiemos,AFIRMATIVO,53,senadorxs,2020,46-55,Masculino
+380,"Pilatti Vergara.,  María Inés",CHACO,NA,Kirchnerismo/PJ,AFIRMATIVO,62,senadorxs,2020,56-65,Femenino
+381,"Poggi,  Claudio",SAN LUIS,NA,Cambiemos,NEGATIVO,57,senadorxs,2020,56-65,Masculino
+382,"Recalde,  Mariano",NA,NA,Kirchnerismo/PJ,AFIRMATIVO,48,senadorxs,2020,46-55,Masculino
+383,"Reutemann., Carlos Alberto",SANTA FE,NA,Cambiemos,NEGATIVO,78,senadorxs,2020,76-85,Masculino
+384,"Rodas,  Antonio José",NA,NA,Kirchnerismo/PJ,NEGATIVO,59,senadorxs,2020,56-65,Masculino
+385,"Rodríguez Machado., Laura Elena",CÓRDOBA,NA,Cambiemos,AFIRMATIVO,39,senadorxs,2020,36-45,Femenino
+386,"Rodríguez Saá., Adolfo",SAN LUIS,NA,Kirchnerismo/PJ,AUSENTE,55,senadorxs,2020,46-55,Masculino
+387,"Rodríguez., Matías",TIERRA DEL FUEGO,NA,Kirchnerismo/PJ,AFIRMATIVO,73,senadorxs,2020,66-75,Masculino
+388,"Romero., Juan Carlos",SALTA,NA,Cambiemos,NEGATIVO,70,senadorxs,2020,66-75,Masculino
+389,"Sacnun., Ángeles",SANTA FE,NA,Kirchnerismo/PJ,AFIRMATIVO,50,senadorxs,2020,46-55,Femenino
+390,"Sapag,  Silvia Estela",NEUQUÉN,NA,Kirchnerismo/PJ,AFIRMATIVO,71,senadorxs,2020,66-75,Femenino
+391,"Schiavoni,  Humberto",MISIONES,NA,Cambiemos,AFIRMATIVO,62,senadorxs,2020,56-65,Masculino
+392,"Snopek., Guillermo",JUJUY,NA,Kirchnerismo/PJ,NA,45,senadorxs,2020,36-45,Masculino
+393,"Solari Quintana,  Magdalena",MISIONES,NA,Otros,NEGATIVO,52,senadorxs,2020,46-55,Femenino
+394,"Tagliaferri,  Guadalupe",NA,NA,Cambiemos,AFIRMATIVO,46,senadorxs,2020,46-55,Femenino
+395,"Taiana,  Jorge Enrique",NA,NA,Kirchnerismo/PJ,AFIRMATIVO,70,senadorxs,2020,66-75,Masculino
+396,"Tapia,  María Bélen",SANTA CRUZ,NA,Cambiemos,NEGATIVO,47,senadorxs,2020,46-55,Femenino
+397,"Uñac,  José Rubén.",SAN JUAN,NA,Kirchnerismo/PJ,NEGATIVO,56,senadorxs,2020,56-65,Masculino
+398,"Vega., María Del Valle",LA RIOJA,NA,Cambiemos,AUSENTE,52,senadorxs,2020,46-55,Femenino
+399,"Verasay., Pamela Fernanda",MENDOZA,NA,Cambiemos,AFIRMATIVO,40,senadorxs,2020,36-45,Femenino
+400,"Weretilneck,  Alberto",NA,NA,Otros,AFIRMATIVO,58,senadorxs,2020,56-65,Masculino
+401,"Zimmermann,  Víctor",NA,NA,Cambiemos,NEGATIVO,58,senadorxs,2020,56-65,Masculino
+402,"ABDALA DE MATARAZZO, Norma Amanda,",SANTIAGO DEL ESTERO,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,72,diputadxs,2020,66-75,Femenino
+403,"AGUIRRE, Hilda Clelia,",LA RIOJA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,60,diputadxs,2020,56-65,Femenino
+404,"AICEGA, Juan,",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,57,diputadxs,2020,56-65,Masculino
+405,"ALDERETE, Juan Carlos,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,68,diputadxs,2020,66-75,Masculino
+406,"ALLENDE, Walberto Enrique,",SAN JUAN,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,65,diputadxs,2020,56-65,Masculino
+407,"ALUME SBODIO, Karim Augusto,",SAN LUIS,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,39,diputadxs,2020,36-45,Masculino
+408,"ÁLVAREZ RODRIGUEZ, María Cristina,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,51,diputadxs,2020,46-55,Femenino
+409,"ÁLVAREZ, Felipe,",LA RIOJA,Accia³n Federal,Cambiemos,NEGATIVO,40,diputadxs,2020,36-45,Masculino
+410,"AMAYA, Domingo,",TUCUMaN,PRO,Cambiemos,NEGATIVO,62,diputadxs,2020,56-65,Masculino
+411,"ANGELINI, Federico,",SANTA FE,PRO,Cambiemos,NEGATIVO,43,diputadxs,2020,36-45,Masculino
+412,"ANSALONI, Pablo Miguel,",BUENOS AIRES,Unidad y Equidad Federal,Otros,NEGATIVO,49,diputadxs,2020,46-55,Masculino
+413,"APARICIO, Alicia Noemi,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,66,diputadxs,2020,66-75,Femenino
+414,"ARCE, Mario Horacio,",FORMOSA,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,45,diputadxs,2020,36-45,Masculino
+415,"ASCARATE, Lidia,",TUCUMaN,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,69,diputadxs,2020,66-75,Femenino
+416,"ASSEFF, Alberto Emilio,",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,78,diputadxs,2020,76-85,Masculino
+417,"AUSTIN, Brenda Lis,",Ca“RDOBA,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,39,diputadxs,2020,36-45,Masculino
+418,"ÁVILA, Beatriz Luisa,",TUCUMaN,PARTIDO POR LA JUSTICIA SOCIAL,Otros,NEGATIVO,54,diputadxs,2020,46-55,Femenino
+419,"AYALA, Aida Beatriz Máxima,",CHACO,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,67,diputadxs,2020,66-75,Femenino
+420,"BALDASSI, Héctor Walter,",MISIONES,FRENTE DE TODOS,Kirchnerismo/PJ,ABSTENCION,54,diputadxs,2020,46-55,Masculino
+421,"BANFI, Karina Verónica,",Ca“RDOBA,PRO,Cambiemos,NEGATIVO,48,diputadxs,2020,46-55,Femenino
+422,"BÁRBARO, Hector Orlando,",BUENOS AIRES,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,57,diputadxs,2020,56-65,Masculino
+423,"BAZZE, Miguel Ángel,",BUENOS AIRES,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,65,diputadxs,2020,56-65,Masculino
+424,"BENEDETTI, Atilio Francisco Salvador,",ENTRE RaOS,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,65,diputadxs,2020,56-65,Masculino
+425,"BERHONGARAY, Martin Antonio,",LA PAMPA,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,42,diputadxs,2020,36-45,Masculino
+426,"BERISSO, Hernán,",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,50,diputadxs,2020,46-55,Masculino
+427,"BERMEJO, Alejandro Daniel,",MENDOZA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,57,diputadxs,2020,56-65,Masculino
+428,"BERNAZZA, Claudia Alicia,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,60,diputadxs,2020,56-65,Femenino
+429,"BERTONE, Rosana Andrea,",TIERRA DEL FUEGO,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,48,diputadxs,2020,46-55,Femenino
+430,"BOGDANICH, Esteban Mateo,",SANTA FE,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,63,diputadxs,2020,56-65,Masculino
+431,"BORMIOLI, Lisandro,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,45,diputadxs,2020,36-45,Masculino
+432,"BRAMBILLA, Sofía,",CORRIENTES,PRO,Cambiemos,NEGATIVO,40,diputadxs,2020,36-45,Femenino
+433,"BRAWER, Mara,",CDAD. AUT. BS. AS.,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,58,diputadxs,2020,56-65,Femenino
+434,"BRITEZ, María Cristina,",MISIONES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,39,diputadxs,2020,36-45,Femenino
+435,"BRIZUELA DEL MORAL, Eduardo Segundo,",CATAMARCA,FRENTE CaVICO Y SOCIAL DE CATAMARCA,Cambiemos,NEGATIVO,76,diputadxs,2020,76-85,Masculino
+436,"BRUE, Daniel Agustín,",SANTIAGO DEL ESTERO,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,56,diputadxs,2020,56-65,Masculino
+437,"BUCCA, Eduardo,",BUENOS AIRES,JUSTICIALISTA,Consenso Federal / PJ no K,AFIRMATIVO,41,diputadxs,2020,36-45,Masculino
+438,"BURGOS, María Gabriela,",JUJUY,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,49,diputadxs,2020,46-55,Femenino
+439,"BURYAILE, Ricardo,",FORMOSA,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,50,diputadxs,2020,46-55,Masculino
+440,"CACACE, Alejandro,",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,35,diputadxs,2020,25-35,Masculino
+441,"CÁCERES, Adriana Cintia,",SAN JUAN,PRO,Cambiemos,AUSENTE,38,diputadxs,2020,36-45,Femenino
+442,"CÁCERES, Eduardo Augusto,",SAN LUIS,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,45,diputadxs,2020,36-45,Masculino
+443,"CALIVA, Lia Veronica,",SALTA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,43,diputadxs,2020,36-45,Femenino
+444,"CAMAÑO, Graciela,",BUENOS AIRES,CONSENSO FEDERAL,Consenso Federal / PJ no K,NEGATIVO,67,diputadxs,2020,66-75,Femenino
+445,"CAMPAGNOLI, Marcela,",BUENOS AIRES,COALICIa“N CaVICA,Cambiemos,NEGATIVO,63,diputadxs,2020,56-65,Femenino
+446,"CAMPOS, Javier,",BUENOS AIRES,COALICIa“N CaVICA,Cambiemos,NEGATIVO,62,diputadxs,2020,56-65,Masculino
+447,"CANO, José Manuel,",TUCUMaN,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,55,diputadxs,2020,46-55,Masculino
+448,"CANTARD, Albor Angel,",SANTA FE,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,59,diputadxs,2020,56-65,Masculino
+449,"CAPARRÓS, Mabel Luisa,",TIERRA DEL FUEGO,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,64,diputadxs,2020,56-65,Femenino
+450,"CARAMBIA, Antonio José,",SANTA CRUZ,Accia³n Federal,Otros,NEGATIVO,38,diputadxs,2020,36-45,Masculino
+451,"CARNAGHI, Oscar,",NEUQUa‰N,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,46,diputadxs,2020,46-55,Masculino
+452,"CARRIZO, Ana Carla,",CDAD. AUT. BS. AS.,EVOLUCIa“N RADICAL,Cambiemos,AFIRMATIVO,54,diputadxs,2020,46-55,Femenino
+453,"CARRIZO, Nilda Mabel,",TUCUMaN,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,41,diputadxs,2020,36-45,Femenino
+454,"CARRIZO, Soledad,",Ca“RDOBA,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,43,diputadxs,2020,36-45,Femenino
+455,"CARRO, Pablo,",Ca“RDOBA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,55,diputadxs,2020,46-55,Masculino
+456,"CASARETTO, Marcelo Pablo,",ENTRE RaOS,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,53,diputadxs,2020,46-55,Masculino
+457,"CASAS, Sergio Guillermo,",LA RIOJA,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,55,diputadxs,2020,46-55,Masculino
+458,"CASELLES, Graciela María,",SAN JUAN,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,54,diputadxs,2020,46-55,Femenino
+459,"CASSINERIO, Paulo Leonardo,",Ca“RDOBA,Ca“RDOBA FEDERAL,Consenso Federal / PJ no K,NEGATIVO,41,diputadxs,2020,36-45,Masculino
+460,"CASTETS, Laura Carolina,",SANTA FE,COALICIa“N CaVICA,Cambiemos,NEGATIVO,47,diputadxs,2020,46-55,Femenino
+461,"CERRUTI, Gabriela,",C.A.B.A.,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,55,diputadxs,2020,46-55,Femenino
+462,"CIPOLINI, Gerardo,",CHACO,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,73,diputadxs,2020,66-75,Masculino
+463,"CISNEROS, Carlos Anibal,",TUCUMaN,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,58,diputadxs,2020,56-65,Masculino
+464,"CLERI, Marcos,",SANTA FE,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,38,diputadxs,2020,36-45,Masculino
+465,"CONTIGIANI, Luis Gustavo,",SANTA FE,FRENTE PROGRESISTA CaVICO Y SOCIAL,Consenso Federal / PJ no K,NEGATIVO,48,diputadxs,2020,46-55,Masculino
+466,"CORNEJO, Alfredo Victor,",MENDOZA,UNIa“N CaVICA RADICAL,Cambiemos,ABSTENCION,58,diputadxs,2020,56-65,Masculino
+467,"CORNEJO, Virginia Maria,",SALTA,PRO,Cambiemos,NEGATIVO,69,diputadxs,2020,66-75,Femenino
+468,"CORPACCI, Lucia,",CATAMARCA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,61,diputadxs,2020,56-65,Femenino
+469,"CORREA, Walter,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,56,diputadxs,2020,56-65,Masculino
+470,"CRESCIMBENI, Camila,",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,30,diputadxs,2020,25-35,Femenino
+471,"CRESTO, Mayda,",ENTRE RaOS,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,48,diputadxs,2020,46-55,Femenino
+472,"DAIVES, Ricardo Daniel,",SANTIAGO DEL ESTERO,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,70,diputadxs,2020,66-75,Masculino
+473,"DALDOVO, Nelly Ramona,",FORMOSA,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,71,diputadxs,2020,66-75,Femenino
+474,"DE LAMADRID, Alvaro Héctor,",C.A.B.A.,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,48,diputadxs,2020,46-55,Masculino
+475,"DE MARCHI, Omar Bruno,",MENDOZA,PRO,Cambiemos,NEGATIVO,54,diputadxs,2020,46-55,Masculino
+476,"DE MENDIGUREN, José Ignacio,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AUSENTE,70,diputadxs,2020,66-75,Masculino
+477,"DEL CAÑO, Nicolás,",BUENOS AIRES,PTS - FRENTE DE IZQUIERDA,Izquierda,AFIRMATIVO,40,diputadxs,2020,36-45,Masculino
+478,"Del CERRO, Gonzalo Pedro Antonio,",SANTA FE,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,77,diputadxs,2020,76-85,Masculino
+479,"DELÚ, Melina Aida,",LA PAMPA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,58,diputadxs,2020,56-65,Femenino
+480,"DI GIACOMO, Luis,",RIO NEGRO,Juntos Somos Ra­o Negro,Otros,AFIRMATIVO,44,diputadxs,2020,36-45,Masculino
+481,"EL SUKARIA, Soher,",Ca“RDOBA,PRO,Cambiemos,NEGATIVO,66,diputadxs,2020,66-75,Femenino
+482,"ENRIQUEZ, Jorge Ricardo,",C.A.B.A.,PRO,Cambiemos,NEGATIVO,45,diputadxs,2020,36-45,Masculino
+483,"ESTEVEZ, Enrique Eloy,",SANTA FE,Socialista,Consenso Federal / PJ no K,AFIRMATIVO,73,diputadxs,2020,66-75,Masculino
+484,"ESTEVEZ, Gabriela Beatriz,",Ca“RDOBA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,37,diputadxs,2020,36-45,Femenino
+485,"FAGIOLI, Federico,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,29,diputadxs,2020,25-35,Masculino
+486,"FELIX, Omar,",MENDOZA,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,60,diputadxs,2020,56-65,Masculino
+487,"FERNANDEZ LANGAN, Ezequiel,",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,42,diputadxs,2020,36-45,Masculino
+488,"FERNANDEZ PATRI, Gustavo Ramiro,",FORMOSA,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,46,diputadxs,2020,46-55,Masculino
+489,"FERNANDEZ, Carlos Alberto,",BUENOS AIRES,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,61,diputadxs,2020,56-65,Masculino
+490,"FERNANDEZ, Eduardo Gabriel,",Ca“RDOBA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,68,diputadxs,2020,66-75,Masculino
+491,"FERNANDEZ, Hector,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,64,diputadxs,2020,56-65,Masculino
+492,"FERRARO, Maximiliano Carlos Francisco,",C.A.B.A.,COALICIa“N CaVICA,Cambiemos,AFIRMATIVO,45,diputadxs,2020,36-45,Masculino
+493,"FERREYRA, Daniel Julio,",JUJUY,FRENTE DE TODOS,Kirchnerismo/PJ,ABSTENCION,78,diputadxs,2020,76-85,Masculino
+494,"FIGUEROA, Alcira Elsa,",SALTA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,61,diputadxs,2020,56-65,Femenino
+495,"FLORES, Danilo Adrián,",LA RIOJA,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,50,diputadxs,2020,46-55,Masculino
+496,"FLORES, Héctor Toty,",BUENOS AIRES,COALICIa“N CaVICA,Cambiemos,NEGATIVO,67,diputadxs,2020,66-75,Masculino
+497,"FRADE, Monica,",BUENOS AIRES,COALICIa“N CaVICA,Cambiemos,AFIRMATIVO,62,diputadxs,2020,56-65,Femenino
+498,"FREGONESE, Alicia,",ENTRE RaOS,PRO,Cambiemos,NEGATIVO,59,diputadxs,2020,56-65,Femenino
+499,"FRIGERIO, Federico,",TIERRA DEL FUEGO,PRO,Cambiemos,AFIRMATIVO,33,diputadxs,2020,25-35,Masculino
+500,"FRIZZA, Gabriel Alberto,",Ca“RDOBA,PRO,Cambiemos,NEGATIVO,52,diputadxs,2020,46-55,Masculino
+501,"GAILLARD, Ana Carolina,",ENTRE RaOS,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,39,diputadxs,2020,36-45,Femenino
+502,"GARCIA DE LUCA, Sebastian,",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,40,diputadxs,2020,36-45,Masculino
+503,"GARCIA, Alejandro,",C.A.B.A.,PRO,Cambiemos,AFIRMATIVO,53,diputadxs,2020,46-55,Masculino
+504,"GARCIA, Ximena,",SANTA FE,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,31,diputadxs,2020,25-35,Femenino
+505,"GINOCCHIO, Silvana Micaela,",CATAMARCA,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,55,diputadxs,2020,46-55,Femenino
+506,"GIOJA, José Luis,",SAN JUAN,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,71,diputadxs,2020,66-75,Masculino
+507,"GIORDANO, Juan Carlos,",BUENOS AIRES,IZQUIERDA SOCIALISTA - FRENTE DE IZQUIERDA,Izquierda,AFIRMATIVO,58,diputadxs,2020,56-65,Masculino
+508,"GODOY, Lucas Javier,",SALTA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,38,diputadxs,2020,36-45,Masculino
+509,"GONZÁLEZ, Álvaro Gustavo,",SANTA FE,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,62,diputadxs,2020,56-65,Masculino
+510,"GONZÁLEZ, Josefina Victoria,",SANTA CRUZ,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,54,diputadxs,2020,46-55,Femenino
+511,"GONZÁLEZ, Pablo Gerardo,",CDAD. AUT. BS. AS.,PRO,Cambiemos,NEGATIVO,52,diputadxs,2020,46-55,Masculino
+512,"GRANDE, Martín,",SALTA,PRO,Cambiemos,NEGATIVO,61,diputadxs,2020,56-65,Masculino
+513,"GROSSO, Leonardo,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,37,diputadxs,2020,36-45,Masculino
+514,"GUEVARA OLIVERA, Alejandro Francisco,",SAN JUAN,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,28,diputadxs,2020,25-35,Masculino
+515,"GUTIERREZ, Carlos Mario,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,67,diputadxs,2020,66-75,Masculino
+516,"GUTIÉRREZ, Carlos Ramiro,",Ca“RDOBA,Ca“RDOBA FEDERAL,Consenso Federal / PJ no K,NEGATIVO,53,diputadxs,2020,46-55,Masculino
+517,"HAGMAN, Itai,",C.A.B.A.,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,37,diputadxs,2020,36-45,Masculino
+518,"HEIN, Gustavo Rene,",ENTRE RaOS,PRO,Cambiemos,NEGATIVO,48,diputadxs,2020,46-55,Masculino
+519,"HELLER, Carlos Salomón,",CDAD. AUT. BS. AS.,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,80,diputadxs,2020,76-85,Masculino
+520,"HERNÁNDEZ, Estela Beatriz,",CHUBUT,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,66,diputadxs,2020,66-75,Femenino
+521,"HERRERA, Bernardo José,",SANTIAGO DEL ESTERO,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,51,diputadxs,2020,46-55,Masculino
+522,"IGLESIAS, Fernando Adolfo,",CDAD. AUT. BS. AS.,PRO,Cambiemos,AFIRMATIVO,63,diputadxs,2020,56-65,Masculino
+523,"IGON, Santiago Nicolás,",CHUBUT,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,43,diputadxs,2020,36-45,Masculino
+524,"JETTER, Ingrid,",CORRIENTES,PRO,Cambiemos,NEGATIVO,49,diputadxs,2020,46-55,Femenino
+525,"JOURY, Mercedes,",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,38,diputadxs,2020,36-45,Femenino
+526,"JUEZ, Luis Alfredo,",Ca“RDOBA,PRO,Cambiemos,NEGATIVO,57,diputadxs,2020,56-65,Masculino
+527,"KIRCHNER, Máximo Carlos,",SANTA CRUZ,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,43,diputadxs,2020,36-45,Masculino
+528,"KOENIG, Marcelo Christian,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,55,diputadxs,2020,46-55,Masculino
+529,"LACOSTE, Jorge Enrique,",CATAMARCA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,56,diputadxs,2020,56-65,Masculino
+530,"LAMPREABE, Florencia,",C.A.B.A.,COALICIa“N CaVICA,Cambiemos,AFIRMATIVO,38,diputadxs,2020,36-45,Femenino
+531,"LANDRISCINI, Susana Graciela,",ENTRE RaOS,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,68,diputadxs,2020,66-75,Femenino
+532,"LASPINA, Luciano Andrés,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,48,diputadxs,2020,46-55,Masculino
+533,"LATORRE, Jimena Hebe,",RIO NEGRO,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,34,diputadxs,2020,25-35,Femenino
+534,"LEHMANN, María Lucila,",SANTA FE,PRO,Cambiemos,NEGATIVO,37,diputadxs,2020,36-45,Femenino
+535,"LEITO, Mario,",MENDOZA,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,56,diputadxs,2020,56-65,Masculino
+536,"LEIVA, Aldo,",SANTA FE,COALICIa“N CaVICA,Cambiemos,NEGATIVO,57,diputadxs,2020,56-65,Masculino
+537,"LENA, Gabriela Mabel,",TUCUMaN,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,54,diputadxs,2020,46-55,Femenino
+538,"LÓPEZ RODRÍGUEZ, Dante Edgardo,",CHACO,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,51,diputadxs,2020,46-55,Masculino
+539,"LOPEZ, Jimena,",ENTRE RaOS,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,37,diputadxs,2020,36-45,Femenino
+540,"LÓPEZ, Juan Manuel,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,41,diputadxs,2020,36-45,Masculino
+541,"LOSPENNATO, Silvia Gabriela,",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,43,diputadxs,2020,36-45,Femenino
+542,"MACHA, Mónica,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,48,diputadxs,2020,46-55,Femenino
+543,"MANZI, Ruben,",CATAMARCA,COALICIa“N CaVICA,Cambiemos,NEGATIVO,66,diputadxs,2020,66-75,Masculino
+544,"MAQUIEYRA, Martín,",LA PAMPA,PRO,Cambiemos,NEGATIVO,32,diputadxs,2020,25-35,Masculino
+545,"MARQUEZ, Claudia Gabriela,",Ca“RDOBA,Ca“RDOBA FEDERAL,Consenso Federal / PJ no K,NEGATIVO,51,diputadxs,2020,46-55,Femenino
+546,"MARTIARENA, José Luis,",Ca“RDOBA,COALICIa“N CaVICA,Cambiemos,NEGATIVO,60,diputadxs,2020,56-65,Masculino
+547,"MARTIN, Juan,",SANTA FE,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,33,diputadxs,2020,25-35,Masculino
+548,"MARTÍNEZ VILLADA, Leonor María,",C.A.B.A.,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,70,diputadxs,2020,66-75,Femenino
+549,"MARTÍNEZ, Germán Pedro,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,45,diputadxs,2020,36-45,Masculino
+550,"MARTÍNEZ, Maria Dolores,",JUJUY,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,42,diputadxs,2020,36-45,Femenino
+551,"MARTÍNEZ, Maria Rosa,",SANTA FE,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,65,diputadxs,2020,56-65,Femenino
+552,"MARZIOTTA, Maria Gisela,",C.A.B.A.,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,45,diputadxs,2020,36-45,Femenino
+553,"MASIN, María Lucila,",CHACO,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,36,diputadxs,2020,36-45,Femenino
+554,"MASSETANI, Vanesa Laura,",SANTA FE,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,38,diputadxs,2020,36-45,Femenino
+555,"MATZEN, Lorena,",RIO NEGRO,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,41,diputadxs,2020,36-45,Femenino
+556,"MEDINA, Gladys,",TUCUMaN,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,47,diputadxs,2020,46-55,Femenino
+557,"MEDINA, Martín Nicolás,",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,35,diputadxs,2020,25-35,Masculino
+558,"MENDOZA, Josefina,",BUENOS AIRES,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,28,diputadxs,2020,25-35,Femenino
+559,"MENNA, Gustavo,",CHUBUT,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,55,diputadxs,2020,46-55,Masculino
+560,"MESTRE, Diego Matías,",Ca“RDOBA,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,42,diputadxs,2020,36-45,Masculino
+561,"MOISÉS, María Carolina,",JUJUY,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,45,diputadxs,2020,36-45,Femenino
+562,"MONALDI, Osmar,",JUJUY,PRO,Cambiemos,NEGATIVO,56,diputadxs,2020,56-65,Masculino
+563,"MONTOTO, María Luisa,",SANTIAGO DEL ESTERO,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,68,diputadxs,2020,66-75,Femenino
+564,"MORALES GORLERI, Victoria,",C.A.B.A.,PRO,Cambiemos,NEGATIVO,48,diputadxs,2020,46-55,Femenino
+565,"MORALES, Flavia,",MISIONES,FRENTE DE LA CONCORDIA MISIONERO,Otros,AFIRMATIVO,45,diputadxs,2020,36-45,Femenino
+566,"MOREAU, Cecilia,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,44,diputadxs,2020,36-45,Femenino
+567,"MOREAU, Leopoldo Raúl Guido,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,74,diputadxs,2020,66-75,Masculino
+568,"MOSQUEDA, Juan,",CHACO,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,58,diputadxs,2020,56-65,Masculino
+569,"MOUNIER, Patricia Monica,",SANTA FE,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,57,diputadxs,2020,56-65,Femenino
+570,"MOYANO, Juan Facundo,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,36,diputadxs,2020,36-45,Masculino
+571,"MUÑOZ, Rosa Rosario,",CHUBUT,FRENTE DE TODOS,Consenso Federal / PJ no K,NEGATIVO,70,diputadxs,2020,66-75,Femenino
+572,"NAJUL, Claudia Inés,",MENDOZA,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,58,diputadxs,2020,56-65,Femenino
+573,"NANNI, Miguel,",SALTA,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,43,diputadxs,2020,36-45,Masculino
+574,"NAVARRO, Graciela,",SANTA FE,PRO,Cambiemos,NEGATIVO,62,diputadxs,2020,56-65,Femenino
+575,"NEDER, Estela Mary del Rosario,",SANTIAGO DEL ESTERO,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,63,diputadxs,2020,56-65,Femenino
+576,"NEGRI, Mario Raúl,",SANTIAGO DEL ESTERO,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,66,diputadxs,2020,66-75,Masculino
+577,"NUÑEZ, José Carlos,",Ca“RDOBA,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,46,diputadxs,2020,46-55,Masculino
+578,"OBEID, Alejandra del Huerto,",SANTA FE,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,42,diputadxs,2020,36-45,Femenino
+579,"OCAÑA, Maria Graciela,",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,60,diputadxs,2020,56-65,Femenino
+580,"OLIVETO LAGO, Paula Mariana,",C.A.B.A.,COALICIa“N CaVICA,Cambiemos,NEGATIVO,47,diputadxs,2020,46-55,Femenino
+581,"ORMACHEA, Claudia,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,61,diputadxs,2020,56-65,Femenino
+582,"ORREGO, Humberto Marcelo,",SAN JUAN,Produccia³n y Trabajo,Cambiemos,NEGATIVO,45,diputadxs,2020,36-45,Masculino
+583,"OSUNA, Blanca Ines,",ENTRE RaOS,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,70,diputadxs,2020,66-75,Femenino
+584,"PAROLA, Maria Graciela,",LA PAMPA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,42,diputadxs,2020,36-45,Femenino
+585,"PASTORI, Luis Mario,",FORMOSA,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,68,diputadxs,2020,66-75,Masculino
+586,"PATIÑO, José Luis,",MISIONES,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,56,diputadxs,2020,56-65,Masculino
+587,"PENACCA, Paula Andrea,",CDAD. AUT. BS. AS.,PRO,Cambiemos,ABSTENCION,39,diputadxs,2020,36-45,Femenino
+588,"PÉREZ ARAUJO, Hernán,",C.A.B.A.,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,45,diputadxs,2020,36-45,Masculino
+589,"PERTILE, Elda,",CHACO,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,67,diputadxs,2020,66-75,Femenino
+590,"PETRI, Luis Alfonso,",MENDOZA,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,43,diputadxs,2020,36-45,Masculino
+591,"PICCOLOMINI, María Carla,",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,40,diputadxs,2020,36-45,Femenino
+592,"POLLEDO, Carmen,",C.A.B.A.,PRO,Cambiemos,NEGATIVO,68,diputadxs,2020,66-75,Femenino
+593,"PONCE, Carlos Ybrhain,",SAN LUIS,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,50,diputadxs,2020,46-55,Masculino
+594,"QUETGLAS, Fabio José,",BUENOS AIRES,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,55,diputadxs,2020,46-55,Masculino
+595,"RAMÓN, José Luis,",MENDOZA,Unidad y Equidad Federal,Otros,NEGATIVO,56,diputadxs,2020,56-65,Masculino
+596,"RAUSCHENBERGER, Ariel,",LA PAMPA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,54,diputadxs,2020,46-55,Masculino
+597,"REGIDOR BELLEDONE, Estela Mercedes,",CORRIENTES,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,50,diputadxs,2020,46-55,Femenino
+598,"REY, Maria Lujan,",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,51,diputadxs,2020,46-55,Femenino
+599,"REYES, Roxana Nahir,",SANTA CRUZ,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,55,diputadxs,2020,46-55,Femenino
+600,"REZINOVSKY, Dina Esther,",C.A.B.A.,PRO,Cambiemos,NEGATIVO,33,diputadxs,2020,25-35,Femenino
+601,"RICCARDO, José Luis,",SAN LUIS,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,59,diputadxs,2020,56-65,Masculino
+602,"RITONDO, Cristian,",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,54,diputadxs,2020,46-55,Masculino
+603,"RIZZOTTI, Jorge,",JUJUY,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,58,diputadxs,2020,56-65,Masculino
+604,"RODRIGUEZ SAA, Nicolás Marcelo,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,36,diputadxs,2020,36-45,Masculino
+605,"RODRIGUEZ, Alejandro,",BUENOS AIRES,CONSENSO FEDERAL,Consenso Federal / PJ no K,NEGATIVO,55,diputadxs,2020,46-55,Masculino
+606,"ROMERO, Jorge Antonio,",CORRIENTES,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,62,diputadxs,2020,56-65,Masculino
+607,"ROMERO, Victor Hugo,",Ca“RDOBA,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,57,diputadxs,2020,56-65,Masculino
+608,"ROSSO, Victoria,",SAN LUIS,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,41,diputadxs,2020,36-45,Femenino
+609,"RUARTE, Adriana Noemi,",Ca“RDOBA,PRO,Cambiemos,NEGATIVO,51,diputadxs,2020,46-55,Femenino
+610,"RUIZ ARAGÓN, José Arnaldo,",CORRIENTES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,33,diputadxs,2020,25-35,Masculino
+611,"RUSSO, Laura,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,39,diputadxs,2020,36-45,Femenino
+612,"SAHAD, Julio Enrique,",LA RIOJA,PRO,Cambiemos,NEGATIVO,64,diputadxs,2020,56-65,Masculino
+613,"SALVADOR, Sebastian Nicolás,",BUENOS AIRES,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,43,diputadxs,2020,36-45,Masculino
+614,"SANCHEZ, Francisco,",NEUQUa‰N,PRO,Cambiemos,NEGATIVO,47,diputadxs,2020,46-55,Masculino
+615,"SAND GIORASI, Nancy Aracely,",CORRIENTES,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,56,diputadxs,2020,56-65,Femenino
+616,"SAPAG, Alma Liliana,",NEUQUa‰N,MOVIMIENTO POPULAR NEUQUINO,Otros,NEGATIVO,68,diputadxs,2020,66-75,Femenino
+617,"SARGHINI, Jorge Emilio,",BUENOS AIRES,CONSENSO FEDERAL,Kirchnerismo/PJ,AFIRMATIVO,67,diputadxs,2020,66-75,Masculino
+618,"SARTORI, Diego Horacio,",MISIONES,FRENTE DE LA CONCORDIA MISIONERO,Otros,NEGATIVO,61,diputadxs,2020,56-65,Masculino
+619,"SCAGLIA, Gisela,",SANTA FE,PRO,Cambiemos,NEGATIVO,44,diputadxs,2020,36-45,Femenino
+620,"SCHIAVONI, Alfredo Oscar,",MISIONES,PRO,Cambiemos,NEGATIVO,57,diputadxs,2020,56-65,Masculino
+621,"SCHLERETH, David Pablo,",NEUQUa‰N,PRO,Cambiemos,NEGATIVO,50,diputadxs,2020,46-55,Masculino
+622,"SCHWINDT, María Liliana,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,57,diputadxs,2020,56-65,Femenino
+623,"SELVA, Carlos Américo,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,62,diputadxs,2020,56-65,Masculino
+624,"SIERRA, Magdalena,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,54,diputadxs,2020,46-55,Femenino
+625,"SILEY, Vanesa,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,36,diputadxs,2020,36-45,Femenino
+626,"SORIA, Martin Ignacio,",RIO NEGRO,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,45,diputadxs,2020,36-45,Masculino
+627,"SPOSITO, Ayelén,",RIO NEGRO,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,35,diputadxs,2020,25-35,Femenino
+628,"STEFANI, Héctor Antonio,",TIERRA DEL FUEGO,PRO,Cambiemos,NEGATIVO,61,diputadxs,2020,56-65,Masculino
+629,"STILMAN, Mariana,",BUENOS AIRES,COALICIa“N CaVICA,Cambiemos,AFIRMATIVO,45,diputadxs,2020,36-45,Femenino
+630,"SUAREZ LASTRA, Facundo,",C.A.B.A.,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,66,diputadxs,2020,66-75,Masculino
+631,"TAILHADE, Luis Rodolfo,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,50,diputadxs,2020,46-55,Masculino
+632,"TERADA, Alicia,",CHACO,COALICIa“N CaVICA - ARI - UNEN,Cambiemos,NEGATIVO,68,diputadxs,2020,66-75,Femenino
+633,"TONELLI, Pablo Gabriel,",CDAD. AUT. BS. AS.,UNIa“N PRO,Cambiemos,NEGATIVO,66,diputadxs,2020,66-75,Masculino
+634,"TORELLO, Pablo,",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,61,diputadxs,2020,56-65,Masculino
+635,"TORRES, Ignacio Agustin,",CHUBUT,PRO,Cambiemos,NEGATIVO,32,diputadxs,2020,25-35,Masculino
+636,"TUNDIS, Mirta,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,64,diputadxs,2020,56-65,Femenino
+637,"UCEDA, Marisa Lourdes,",MENDOZA,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,41,diputadxs,2020,36-45,Femenino
+638,"UHRIG, Romina Maricel,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,ABSTENCION,32,diputadxs,2020,25-35,Femenino
+639,"VALDÉS, Eduardo Felix,",SANTA CRUZ,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,64,diputadxs,2020,56-65,Masculino
+640,"VALLEJOS, María Fernanda,",C.A.B.A.,FRENTE DE TODOS,Kirchnerismo/PJ,NEGATIVO,41,diputadxs,2020,36-45,Femenino
+641,"VARA, Jorge Alberto,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,64,diputadxs,2020,56-65,Masculino
+642,"VAZQUEZ, Juan Benedicto,",CORRIENTES,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,54,diputadxs,2020,46-55,Masculino
+643,"VESSVESSIAN, Marcela Paola,",SANTA CRUZ,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,49,diputadxs,2020,46-55,Femenino
+644,"VIGO, Alejandra María,",Ca“RDOBA,Ca“RDOBA FEDERAL,Consenso Federal / PJ no K,NEGATIVO,63,diputadxs,2020,56-65,Femenino
+645,"VILAR, Daniela,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,36,diputadxs,2020,36-45,Femenino
+646,"VILLA, Natalia Soledad,",BUENOS AIRES,PRO,Cambiemos,NEGATIVO,41,diputadxs,2020,36-45,Femenino
+647,"VIVERO, Carlos Alberto,",NEUQUa‰N,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,41,diputadxs,2020,36-45,Masculino
+648,"WELLBACH, Ricardo,",MISIONES,FRENTE DE LA CONCORDIA MISIONERO,Otros,NEGATIVO,58,diputadxs,2020,56-65,Masculino
+649,"WOLFF, Waldo Ezequiel,",BUENOS AIRES,PRO,Cambiemos,AFIRMATIVO,52,diputadxs,2020,46-55,Masculino
+650,"YACOBITTI, Emiliano Benjamin,",C.A.B.A.,UNIa“N CaVICA RADICAL,Cambiemos,AFIRMATIVO,45,diputadxs,2020,36-45,Masculino
+651,"YAMBRUN, Liliana,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,63,diputadxs,2020,56-65,Femenino
+652,"YASKY, Hugo,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,71,diputadxs,2020,66-75,Masculino
+653,"YEDLIN, Pablo Raúl,",TUCUMaN,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,54,diputadxs,2020,46-55,Masculino
+654,"YUTROVIC, Ines Carolina,",TIERRA DEL FUEGO,FRENTE DE TODOS,Kirchnerismo/PJ,AFIRMATIVO,56,diputadxs,2020,56-65,Femenino
+655,"ZAMARBIDE, Federico Raúl,",MENDOZA,UNIa“N CaVICA RADICAL,Cambiemos,NEGATIVO,38,diputadxs,2020,36-45,Masculino
+656,"ZOTTOS, Miguel Andrés Costas,",SALTA,JUSTICIALISTA,Consenso Federal / PJ no K,NEGATIVO,59,diputadxs,2020,56-65,Masculino
+657,"ZUVIC, Mariana,",C.A.B.A.,COALICIa“N CaVICA,Cambiemos,ABSTENCION,46,diputadxs,2020,46-55,Femenino
+658,"MASSA, Sergio Tomás,",BUENOS AIRES,FRENTE DE TODOS,Kirchnerismo/PJ,NA,NA,diputadxs,2020,NA,Masculino
