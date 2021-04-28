@@ -1,7 +1,20 @@
 # analisis_ive_arg
+
 Repositorio sobre la aplicación web para analizar los resultados de las votaciones del proyecto de Interrupción Voluntaria del Embarazo (IVE) en el poder legislativo argentino.
 
 Este trabajo forma parte de la entrega final del curso Social Data Analytics de la Escuela Argentina de Nuevas Tecnologías (EANT).
+
+Integrantes del equipo:
+
+- Mariano Mezzadra: [Twitter](https://twitter.com/Mezzadra_?s=20)
+
+- Luisina Picariello: [Twitter](https://twitter.com/LuPicariello?s=20)
+
+- Alejandro Pocoroba: [Twitter](https://twitter.com/AlejPocorob?s=20)
+
+- María Emilia Rojas: [LinkedIn](https://www.linkedin.com/in/mariaemiliarojas3/)
+
+- Carmen Tello: [LinkedIn](https://www.linkedin.com/in/carmen-tello/)
 
 El proyecto consta de dos etapas: 
 
