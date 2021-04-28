@@ -1,5 +1,5 @@
 # analisis_ive_arg
-Repositorio sobre la aplicación web que refleja información sobre los resultados de las votaciones del proyecto de Interrupción Voluntaria del Embarazo (IVE) en el poder legislativo argentino.
+Repositorio sobre la aplicación web para analizar los resultados de las votaciones del proyecto de Interrupción Voluntaria del Embarazo (IVE) en el poder legislativo argentino.
 
 Este trabajo forma parte de la entrega final del curso Social Data Analytics de la Escuela Argentina de Nuevas Tecnologías (EANT).
 
