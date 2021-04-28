@@ -1,4 +1,4 @@
-# Análisis del proyecto de Interrupción Voluntaria del Embarzao en el Poder Legislativo Argentino #
+# Análisis del proyecto de Interrupción Voluntaria del Embarazo en el Poder Legislativo Argentino #
 
 Repositorio sobre la aplicación web para analizar los resultados de las votaciones del proyecto de Interrupción Voluntaria del Embarazo (IVE) en el poder legislativo argentino.
 
